@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "第四の権力 / 宮舞モカ",
+  "base_artist": "ほうきぼし",
+  "createdAt": "2026-03-06T13:46:50.694663Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "第四の権力 (feat. 宮舞モカ)",
+      "artist": "ほうきぼし",
+      "has_synced": false,
+      "path": "select/pl_01_第四の権力_(feat._宮舞モカ)_ほうきぼし.txt"
+    }
+  ]
+}
